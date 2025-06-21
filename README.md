@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hey there, I'm Fares!
 
-<!--
-**fares2-eng/fares2-eng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a Computer Science student at the Faculty of Computers and Information.  
+💻 Passionate about becoming a professional Software Engineer.  
+🌐 Currently learning **Full Stack .NET** and diving into **React** and **HTML/CSS**.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 What I'm Working On:
+- Building simple Frontend projects using HTML, CSS & React
+- Learning backend development with ASP.NET Core
+- Improving my problem-solving skills with C++ & Data Structures
+
+---
+
+## 🧰 Tech Stack:
+- **Languages:** C++, JavaScript, C#, SQL  
+- **Frontend:** HTML, CSS, React.js  
+- **Backend:** .NET, ASP.NET Core  
+- **Tools:** Git, GitHub, Visual Studio, VS Code  
+
+---
+
+## 📫 Let's Connect!
+- 📍 Based in Tanta, Egypt  
+- 📧 Email: fareselsheikh34@gmail.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/fares-samieh-35a115357)  
