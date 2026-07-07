@@ -24,4 +24,4 @@
 ## 📫 Let's Connect!
 - 📍 Based in Tanta, Egypt  
 - 📧 Email: fareselsheikh34@gmail.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/fares-samieh-35a115357)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/fares-samieh-el-sheikh-9208a8405)  
